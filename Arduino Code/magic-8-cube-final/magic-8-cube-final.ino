@@ -71,11 +71,11 @@ void loop(){
     // Display thinking dots
     cleardisplay();
     displayText(".", 35, 15, 3, true);
-    delay(500);
+    delay(200);
     displayText(".", 55, 15, 3, true);
-    delay(500);
+    delay(200);
     displayText(".", 75, 15, 3, true);
-    delay(500);
+    delay(200);
 
 
     // Display a random message 0-3
