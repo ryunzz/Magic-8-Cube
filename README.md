@@ -22,7 +22,7 @@ Possibly adding more output messages.
 # Overview
 Here are some quick links to some of the resources I developed while creating this project:
 
-📕 • [Images Whilst Building](https://drive.google.com/drive/folders/14z7V7EUYJsQ4ouKWwYoF3UgeNxiKuQ0m?usp=sharing)
+📕 • [Images Whilst Building](https://drive.google.com/drive/folders/1LnlhWnNnhuFGLovUup8sOFBYDv88xRwy?usp=sharing)
 
 # Materials
 If you're interested in what materials I used to build Magic 8 Cube, here's a list parts!
