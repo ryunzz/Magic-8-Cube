@@ -16,11 +16,11 @@ One of the chelleges I faced was configuring my actuator on my vibration sensor 
 # Accomplishments that we're proud of
 The project functions as a real magic 8 ball!
 
-# What's next for Power Tag
+# What's next for Magic 8 Cube
 Possibly adding more output messages.
 
 # Overview
-Here are some quick links to some of the resources we developed while creating our project:
+Here are some quick links to some of the resources I developed while creating this project:
 
 📕 • [Images Whilst Building](https://drive.google.com/drive/folders/14z7V7EUYJsQ4ouKWwYoF3UgeNxiKuQ0m?usp=sharing)
 
